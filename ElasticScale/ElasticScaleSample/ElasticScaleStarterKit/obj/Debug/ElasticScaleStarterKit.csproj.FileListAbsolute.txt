@@ -1,0 +1,14 @@
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe.config
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\InitializeShard.sql
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.pdb
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.exe
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.pdb
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Documents\Visual Studio 2013\Samples\Elastic Scale with A1\ElasticScaleStarterKit\bin\Debug\InitializeShard_WoT.sql

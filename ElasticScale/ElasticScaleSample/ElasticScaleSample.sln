@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticScaleSample", "ElasticScaleStarterKit\ElasticScaleSample.csproj", "{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37DE90C3-6ED6-4086-9180-F3247FB8AB23}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\AZZ4BUHT.WTD\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\AZZ4BUHT.WTD\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576E2FB9-A842-457C-BA5B-5E53A2FA11A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
